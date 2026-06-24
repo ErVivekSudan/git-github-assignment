@@ -1,7 +1,7 @@
 # Git & GitHub Assignment
 This is my first Git and GitHub assignment.
 ## About Me
-My name is Your Name.
+My name is Vivek Sudan.
 I am learning how to track code using Git and push code to Gi
 tHub.
 ## Commands I Practiced
