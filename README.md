@@ -14,5 +14,7 @@ tHub.
 - git branch -M main
 - git push -u origin main
 - git push
+- git clone <url> <foldername>
+
 ## Important Line
 Commit is local. Push is online.
